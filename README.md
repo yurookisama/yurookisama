@@ -14,16 +14,12 @@ Afyon Kocatepe Üniversitesi'nde 1. sınıf öğrencisiyim. Teknolojiye ve özel
 ### 💻 Becerilerim ve Öğrenme Yolculuğum
 
 Şu anda temel olarak oyun geliştirme alanında yetkinliğimi artırmaya odaklanmış durumdayım.
-
-| Yetenekler | Seviye | Nümerik |
-| :--- | :--- | :--- |
-| GNU/Linux | -----C···· | 5/10 |
-| Unity | -----C···· | 5/10 |
-| C# | ------C···· | 6/10 |
-| Adobe Photoshop | -----C···· | 5/10 |
-| Adobe Illustator | --C······· | 2/10 |
-| Git | -----C···· | 5/10 |
-| İngilizce | ------C··· | 6/10 |
+GNU/Linux
+Unity
+C#
+Adobe Photoshop
+Adobe Illustator
+Git
 
 Yeni teknolojileri, yazılım geliştirme prensiplerini ve oyun tasarımı dinamiklerini sürekli olarak öğrenmeye devam ediyorum.
 
